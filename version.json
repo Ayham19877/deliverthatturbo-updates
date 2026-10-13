@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/deliverthatturbo-updates/main/DeliverThat_turbo_v1.9.apk",
-  "notes": "فحص كل 10ms بوضع السرعة القصوى + تبسيط الكبس"
+  "versionCode": 11,
+  "versionName": "1.10",
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/deliverthatturbo-updates/main/DeliverThat_turbo_v1.10.apk",
+  "notes": "تثبيت تلقائي بعد التحميل"
 }
